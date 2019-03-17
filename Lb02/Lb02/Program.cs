@@ -47,6 +47,7 @@ namespace Lb02
             {
                 Console.WriteLine("El promedio mayor es del turno de la noche");
             }
+            Console.WriteLine("Rafael Ernesto Alfaro Contreras AC100816");
             Console.ReadKey();
         }
     }
